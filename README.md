@@ -1,6 +1,6 @@
 ![](https://s3.amazonaws.com/videos.pentesteracademy.com/videos/badges/low/arm-assembly.png)
 
-Borrar y modificar a su gusto este README, pero antes utilizar estas condciones de entrega del trabajo.
+Borrar y modificar a su gusto este README, pero antes utilizar estas condiciones de entrega del trabajo.
 
 # Utilizar los dos directorios
 
