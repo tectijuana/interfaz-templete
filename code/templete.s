@@ -84,5 +84,8 @@ svc $0		   @ wake kernel.  Invoca una llamada al sistema (System Call). Esto cau
 @          ./$(OUT)  
 @  
 @  # Entrar al Debugger  
+@
+@
+@  Basado en el templete: https://github.com/tectijuana/interfaz/edit/master/templete/readme.md
 @  gef: $(OUT)  
 @          gdb  $(OUT)  
