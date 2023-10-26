@@ -40,11 +40,11 @@
 @------------------------------------
 @ Esta sección contiene el código ejecutable del programa.
 
-_start:		    @ Esta es la etiqueta que marca el punto de entrada del programa.
+_start:		   @ Esta es la etiqueta que marca el punto de entrada del programa.
 nop          @ no operation, Instrucción de No Operación (NOP). No hace nada y se utiliza a menudo para fines de depuración o para introducir retrasos controlados.
 mov r7, $1   @ exit syscall; Mueve el valor 1 (que representa la llamada al sistema de salida) al registro r7.
-svc $0		     @ wake kernel.  Invoca una llamada al sistema (System Call). Esto causa una interrupción que transfiere el control al kernel del sistema operativo para que realice la operación solicitada en el registro r7.
-.end         @ Marca el fin del archivo fuente.
+svc $0		   @ wake kernel.  Invoca una llamada al sistema (System Call). Esto causa una interrupción que transfiere el control al kernel del sistema operativo para que realice la operación solicitada en el registro r7.
+.end         @ Marca el fin del archivo fuente. Los resultados se ven enconsk
 
 @-------------------------------------
 @   MAKEFILE  
