@@ -1,14 +1,25 @@
+
+<!---
+   Para comentarios usar este bloque para documentar pendientes, secuencias, etc.
+--->
+
+
 ![](https://s3.amazonaws.com/videos.pentesteracademy.com/videos/badges/low/arm-assembly.png)
 
-Borrar y modificar a su gusto este README, pero antes utilizar estas condiciones de entrega del trabajo.
+Borrar y modificar README
 
 # Utilizar los dos directorios
 
-- code  - ahi depositar sus programas los ***archivos extensión *.s****  (Source File) algunos autores en x86 de ponen .asm y en otras plataformas ARM compatibles la extension *.elf
-- Todo programa lleva su comentario en la parte de arriba, objetivo y nombre del programador minimo.
+- code  - ahi depositar sus programas los ***archivos extensión *.s****  (Source File) algunos autores en x86 de ponen .asm y en otras plataformas ARM compatibles la extension *.s
+- Todo programa lleva su comentario en la parte de arriba, objetivo y nombre del programador minimo, como templete
 - images  - de haber algo de pantallas ahi se presentaran, su busca documentarlas en MARKDOWN el código es:
 
 ``` ![](images/---archivo.jpg---) recordar que no lleva espacios```
+
+<!---
+  Los nombres de las imagenes no deben cambiar de preferenci el nombre del programa como:  KIOSKO.cpp (su pantallas serian KISOCO.jpg, KIOSCO-1.jpg, KIOSCO-2.jpg ... )
+  Y asi procurar estar agrupados.
+--->
 
 
 
@@ -18,7 +29,7 @@ No se usan espacios en nombres de archivos, usar los nombres estilo camelCase (p
 
 Suerte.
 
-Att. ![](https://img.icons8.com/color/2x/docker.png)
+
 
 ------
 
