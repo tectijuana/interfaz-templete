@@ -12,7 +12,7 @@ Borrar y modificar README
 
 - code  - ahi depositar sus programas los ***archivos extensión *.s****  (Source File) algunos autores en x86 de ponen .asm y en otras plataformas ARM compatibles la extension *.s
 - Todo programa lleva su comentario en la parte de arriba, objetivo y nombre del programador minimo, como templete
-- images  - de haber algo de pantallas ahi se presentaran, su busca documentarlas en MARKDOWN el código es:
+- images  - de haber algo de pantallas ahi se presentaran, su busca documentarlas en MARKDOWN elWERTYHJ código es:
 
 ``` ![](images/---archivo.jpg---) recordar que no lleva espacios```
 
@@ -56,10 +56,10 @@ Unidad:
 1
 
 Título del trabajo:
-Ejercicios ......
+Integración de código Assembly con C
 
 Estudiante:
-.......
+Aganza Molina Abraham Armando 19210455
 
 	</p>
 
